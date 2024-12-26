@@ -47,7 +47,7 @@ with negative edge-triggered clock.
 ![Screenshot 2024-12-04 131926](https://github.com/user-attachments/assets/f6201a50-be4c-447d-8830-7e9f63d3675c)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
-Developed by:K.SriSaran Karthik RegisterNumber:24007192 */
+Developed by: Barani SS RegisterNumber:24900119*/
 
 RTL LOGIC FOR FLIPFLOPS:
 
